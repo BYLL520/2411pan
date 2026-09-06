@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+drawable button_bg
+drawable card_bg
+drawable ic_launcher
+drawable input_bg
+style AppTheme

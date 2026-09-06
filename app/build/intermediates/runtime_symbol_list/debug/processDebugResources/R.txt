@@ -1,0 +1,5 @@
+int drawable button_bg 0x7f010000
+int drawable card_bg 0x7f010001
+int drawable ic_launcher 0x7f010002
+int drawable input_bg 0x7f010003
+int style AppTheme 0x7f020000

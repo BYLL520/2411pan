@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "cn.pan2411.uploader.app-debug-4:/drawable_button_bg.xml.flat",
+        "source": "cn.pan2411.uploader.app-main-6:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "cn.pan2411.uploader.app-debug-4:/drawable_ic_launcher.webp.flat",
+        "source": "cn.pan2411.uploader.app-main-6:/drawable/ic_launcher.webp"
+    },
+    {
+        "merged": "cn.pan2411.uploader.app-debug-4:/drawable_card_bg.xml.flat",
+        "source": "cn.pan2411.uploader.app-main-6:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "cn.pan2411.uploader.app-debug-4:/drawable_input_bg.xml.flat",
+        "source": "cn.pan2411.uploader.app-main-6:/drawable/input_bg.xml"
+    }
+]

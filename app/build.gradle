@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'cn.pan2411.uploader'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'cn.pan2411.uploader'
+        minSdk 24
+        targetSdk 35
+        versionCode 2
+        versionName '1.2'
+    }
+}

@@ -1,0 +1,5 @@
+cn.pan2411.uploader:style/AppTheme = 0x7f020000
+cn.pan2411.uploader:drawable/input_bg = 0x7f010003
+cn.pan2411.uploader:drawable/ic_launcher = 0x7f010002
+cn.pan2411.uploader:drawable/card_bg = 0x7f010001
+cn.pan2411.uploader:drawable/button_bg = 0x7f010000

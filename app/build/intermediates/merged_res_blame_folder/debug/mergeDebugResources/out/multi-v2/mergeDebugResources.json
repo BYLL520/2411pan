@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "cn.pan2411.uploader.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\24110\\Desktop\\2411pan1.2\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "442"
+                    }
+                }
+            ]
+        }
+    ]
+}

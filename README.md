@@ -1,2 +1,11 @@
 # 2411pan
 安卓外链网盘对接程序直接api对接上传就行 演示站点2411092.xyz 随便拿去用就行
+
+## Android Studio 构建 APK
+1. 用 Android Studio 打开项目目录。
+2. 等待 Gradle 同步。
+3. 点击 `Build > Build APK(s)`。
+4. APK 在 `app/build/outputs/apk/debug/app-debug.apk`。
+
+## GitHub 自动打包 APK
+项目已包含 `.github/workflows/build-apk.yml`。上传到 GitHub 后，在 Actions 里运行 `Build APK`，即可下载构建产物。

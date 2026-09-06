@@ -1,5 +1,12 @@
 # 2411盘
 
+2411 Pan全部版本源码整合地址
+https://www.ilanzou.com/s/0oFKPtSl
+
+构建版演示APK
+2411092.xyz
+
+
 
 ## Android Studio 构建 APK
 1. 用 Android Studio 打开项目目录。
